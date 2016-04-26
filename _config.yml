@@ -3,14 +3,14 @@ title: Academic Revisions
 index_title: Academic Revisions # same as title in index.html file, so that custom description can be set in page.html layout.
 blog_title: Academic Revisions
 header-img: img/home-bg.jpg
-email: root@shikherverma.com
-copyright_name: ShikherVerma
+email: 
+copyright_name: 
 description: "Academic Revisions & Translations"
 baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
-url: shikherverma.com #only used in disque comments for now
-github_username:  shikherverma
-facebook_username:  shikherverma1
-email_username:  root@shikherverma.com
+url:  #only used in disque comments for now
+github_username:  
+facebook_username:  
+email_username: 
 # used to estimate reading time
 wpm: 180
 
