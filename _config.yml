@@ -1,6 +1,6 @@
 # Site settings
 title: Academic Revisions
-index_title: Shikher Verma # same as title in index.html file, so that custom description can be set in page.html layout.
+index_title: Academic Revisions # same as title in index.html file, so that custom description can be set in page.html layout.
 blog_title: Academic Revisions
 header-img: img/home-bg.jpg
 email: root@shikherverma.com
